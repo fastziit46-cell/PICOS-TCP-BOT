@@ -27,7 +27,7 @@ SPAM_INTERVAL = 0.5
 bot_uid = None
 ToKen = None
 region = None
-admin_uid = "14614707774"
+admin_uid = "563640835"
 
 pending_ghost_future = None
 ghost_team_id = None
